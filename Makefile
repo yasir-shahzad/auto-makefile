@@ -1,4 +1,4 @@
-# compiler and target program
+# compiler and target program.
 CXX = g++
 TARGET = program
 
